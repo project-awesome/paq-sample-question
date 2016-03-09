@@ -1,0 +1,24 @@
+{
+  "name": "paq-sample-question",
+  "version": "0.0.0",
+  "description": "Project Awesome Question, Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-awesome/paq-sample-question.git"
+  },
+  "author": "Phill Conrad <pconrad@cs.ucsb.edu> (https://foo.cs.ucsb.edu/pawiki)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-awesome/paq-sample-question/issues"
+  },
+  "homepage": "https://github.com/project-awesome/paq-sample-question#readme",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.2"
+  }
+}
