@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/project-awesome/paq-sample-question#readme",
   "devDependencies": {
+    "ajv": "^3.8.3",
     "chai": "^3.4.0",
     "mocha": "^2.3.3",
+    "pa-randomizer": "git+https://git@github.com/project-awesome/pa-randomizer.git",
     "sinon": "^1.17.2"
+  },
+  "dependencies": {
   }
 }
